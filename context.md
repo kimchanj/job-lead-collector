@@ -95,9 +95,13 @@ Sprint3: done (2026-03-05)
 Sprint4: done (2026-03-05)
 Sprint5: done (2026-03-05)
 Sprint6: done (2026-03-05)
+Sprint7: done (2026-03-05)
+Sprint8: done (2026-03-05)
+Sprint9: done (2026-03-05)
+Sprint10: done (2026-03-05)
 
 Last run result:
-python main.py -> success, out/leads.xlsx generated (70 rows, dedup+error handling+logging applied)
+python main.py -> success, out/leads.xlsx generated (39 rows, contact/discovery columns included)
 
 Next task:
-Project baseline complete. Optional: add unit tests and scheduler automation.
+Optional: improve contact discovery hit-rate and add automated tests.
